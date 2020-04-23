@@ -1,0 +1,12 @@
+.box {
+    position: absolute;
+    width: 50%;
+    height: 300px;
+    line-height: 300px;
+    font-size: 50px;
+    text-align: center;
+    border: 2px solid black;
+    left: 150%;
+    top: 100px;
+    margin-left: -25%;
+}
